@@ -1,3 +1,24 @@
-.flex {
-  flex-direction:
+body {
+  text-align: center;
+  background: url(https://www.guinnessworldrecords.com/Images/abbey-road_tcm25-594684.jpg)
+}
+h1 {
+  color: blue;
+  background: white;
+  opacity: .8;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+form {
+  background: white;
+  opacity: .8;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+p {
+  background: white;
+  opacity: .8;
+  margin-left: 500px;
+  margin-right: 500px;
 }
